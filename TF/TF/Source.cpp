@@ -14,6 +14,8 @@ int main()
 		cout << i << endl;
 	}
 
+	cout << "Hola rodrigo";
+
 	_getch();
 	return 0;
 }
