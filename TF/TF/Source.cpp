@@ -14,7 +14,8 @@ int main()
 		cout << i << endl;
 	}
 
-	cout << "xdddda" << endl;
+	cout << "Hola bro";
+
 	_getch();
 	return 0;
 }
