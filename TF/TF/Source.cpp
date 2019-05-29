@@ -14,6 +14,7 @@ int main()
 		cout << i << endl;
 	}
 
+	cout << "xddd" << endl;
 	_getch();
 	return 0;
 }
