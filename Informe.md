@@ -10,7 +10,7 @@ TRABAJO FINAL
 
 ### Introducción
 
-La motivacion es poder trabajar proyecto de data science, machine learning con grandes cantidades de datos de manera eficiente. La solucion para ello es utilizar los dataframes con las opciones indicadas. Lo que se espera es manjear grandes cantidades de datos de manera eficiente.
+La motivacion es poder trabajar proyecto de data science, machine learning con grandes cantidades de datos de manera eficiente. La solucion para ello es utilizar los dataframes con las opciones indicadas. Lo que se espera es manjear grandes cantidades de datos de manera eficiente mediante laimplementación de diferentes recursos de programación.
 
 ### Objetivos
 
