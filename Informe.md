@@ -10,27 +10,18 @@ TRABAJO FINAL
 
 ### Introducción
 
-_Motivacion, Problema General, Solucion General, lo que se espera_
-
-la motivacion es poder trabajar proyecto de data science, machine learning con grandes cantidades de datos de manera eficiente. La solucion para ello es utilizar los dataframes con las opciones indicadas. Lo que se espera es manjear grandes cantidades de datos de manera eficiente.
-
+La motivacion es poder trabajar proyecto de data science, machine learning con grandes cantidades de datos de manera eficiente. La solucion para ello es utilizar los dataframes con las opciones indicadas. Lo que se espera es manjear grandes cantidades de datos de manera eficiente.
 
 ### Objetivos
 
-
-_Objetivo General: dar solucion al problema_
-_Objetivos especificos: analizar, diseñar, implementar_
-
-
 _Objetivo General:_ Manejar grandes cantidades de datos de manera eficiente mediante la implementación de dataframes.
+
 _Objetivos Específicos:_ 
 - Analizar el problema de manejo de datos presente en el proyecto.
 - Diseñar una solución al problema mediante algoritmos de ordenamientos, arboles y dataframes.
 - Implementar la solución en lenguaje C++ en IDE Visual Studio.
 
 ### Marco Conceptual
-
-_Teoria de dataframes, Ordenamientos, Busqueda, Arboles_
 
 _Data Frames:_ Son estructuras de datos rectangulares, es decir, que almacenan distintos tipos de datos en filas y columnas. Estas estructuras se utilizan para realizar análisis de datos.
 
